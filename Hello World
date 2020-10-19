@@ -1,0 +1,3 @@
+public viod main(){
+  Systerm.out.println("hello world");
+}
